@@ -1,8 +1,4 @@
-# React + Vite
+# Solo Sphere - Freelance Job Marketplace
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Description
+Solo Sphere is a freelance job marketplace that connects freelancers with clients. The platform allows freelancers to create profiles, list their skills, and apply for jobs. Clients can post jobs, review freelancer profiles, and hire freelancers. Solo Sphere provides a secure and efficient way for freelancers and clients to connect and collaborate on projects.
